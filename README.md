@@ -1,4 +1,4 @@
-Flask Blog with User Authentication
+## Flask Blog with User Authentication
 
 This is a Flask-based web application for managing a blog with user authentication, administrative privileges, and comment functionality. It allows users to register, log in, create and edit posts, and leave comments on posts. The application uses a variety of Flask extensions to enhance functionality, including CKEditor for rich text editing, SQLAlchemy for database management, and Flask-Login for user session management.
 
